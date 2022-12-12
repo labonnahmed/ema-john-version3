@@ -1,0 +1,18 @@
+.product-component img{
+    height: fit-content;
+    margin-right: 30px;
+}
+
+.product-component{
+    display: flex;
+    margin: 50px;
+    padding-left: 50px;
+}
+
+.product-component h5{
+    line-height: 50px;
+}
+
+h6 small {
+    color: rgb(83, 81, 73);
+}

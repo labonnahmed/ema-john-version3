@@ -1,0 +1,12 @@
+.Product-container{
+    width: 70%;
+    margin-left: 40px;
+}
+.price-contaianer{
+    width: 30%;
+    margin: 0px 10px;
+}
+
+.parent-container{
+    display: flex;
+}
